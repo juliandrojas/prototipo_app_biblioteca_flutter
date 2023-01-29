@@ -1,4 +1,4 @@
-import 'package:auth_example/src/ui/pages/home/home_controller.dart';
+import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/home/home_controller.dart';
 import 'package:get/get.dart';
 
 class HomeBinding implements Bindings {
