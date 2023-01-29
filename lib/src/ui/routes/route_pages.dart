@@ -1,7 +1,7 @@
 import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/home/home_binding.dart';
 import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/home/home_page.dart';
-import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/sign_in/sign_in_binding.dart';
-import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/sign_in/sign_in_page.dart';
+import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/signIn/sign_in_binding.dart';
+import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/signIn/sign_in_page.dart';
 import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/splash/splash_binding.dart';
 import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/splash/splash_page.dart';
 import 'package:prototipo_app_biblioteca_flutter/src/ui/routes/route_names.dart';
