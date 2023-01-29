@@ -1,4 +1,4 @@
-import 'package:prototipo_app_biblioteca/src/ui/pages/signIn/sign_in_controller.dart';
+import 'package:prototipo_app_biblioteca_flutter/src/ui/pages/signIn/sign_in_controller.dart';
 import 'package:get/get.dart';
 
 class SignInBinding implements Bindings {
