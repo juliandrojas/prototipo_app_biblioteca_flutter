@@ -8,7 +8,7 @@ class AppBinding implements Bindings {
   void dependencies() {
     //Inyectamos las dependencias (va a permanecer así durante toda la ejecución)
     //Indicamos esto con permanent: true
-    Get.put<AuthController>(AuthController(), permanent: true);
-    Get.put<AppController>(AppController(), permanent: true);
+    Get.put<AuthController>(AuthController(), permanent: false);
+    Get.put<AppController>(AppController(), permanent: false);
   }
 }

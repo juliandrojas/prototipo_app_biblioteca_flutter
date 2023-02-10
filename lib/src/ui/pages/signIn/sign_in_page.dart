@@ -14,6 +14,7 @@ class SignInPage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            Image.asset("images/logoApp.png"),
             TextFormField(
               controller: controller.emailController,
               decoration: const InputDecoration(
