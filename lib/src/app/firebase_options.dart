@@ -25,12 +25,12 @@ class DefaultFirebaseOptions {
   //Datos extraídos de la sección "Configuración del proyecto"
   static const FirebaseOptions _android = FirebaseOptions(
     //Clave API WEB
-    apiKey: 'AIzaSyBuJauciYdQ89jgCKr7UM2IRWaT8nJFAZk',
+    apiKey: 'AIzaSyB8OZoV95PIC0RA9GOiZ8hqONKND0KtrlU',
     //ID de la APP
-    appId: '1:812816499243:android:050945c614522086c0206e',
+    appId: '1:11985974195:android:ae4e13a3012194d4c651c6',
     //Número de proyecto
-    messagingSenderId: '812816499243',
+    messagingSenderId: '11985974195',
     //ID del proyecto
-    projectId: 'prototipoappbiblioteca-7d2dd',
+    projectId: 'prototipoappbiblioteca-83086',
   );
 }
