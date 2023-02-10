@@ -10,6 +10,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
+      debugShowCheckedModeBanner: false,
       initialBinding: const AppBinding(),
       initialRoute: RouteNames.splash,
       getPages: RoutePages.all,

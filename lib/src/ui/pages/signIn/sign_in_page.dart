@@ -15,6 +15,7 @@ class SignInPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset("images/logoApp.png"),
+            const SizedBox(height: 16.0),
             TextFormField(
               controller: controller.emailController,
               decoration: const InputDecoration(
@@ -27,6 +28,7 @@ class SignInPage extends StatelessWidget {
               decoration: const InputDecoration(
                 labelText: 'Password',
               ),
+              obscureText: true,
             ),
             const SizedBox(height: 16.0),
             ElevatedButton(

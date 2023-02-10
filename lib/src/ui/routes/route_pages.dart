@@ -14,7 +14,7 @@ class RoutePages {
     return [
       GetPage(
         name: RouteNames.home,
-        page: () => const HomePage(),
+        page: () => HomePage(),
         binding: const HomeBinding(),
       ),
       GetPage(
